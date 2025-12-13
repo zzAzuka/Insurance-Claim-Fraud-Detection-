@@ -3,3 +3,5 @@ fastapi[standard]
 uvicorn
 pydantic
 pypdf
+markitdown[all]
+ollama
